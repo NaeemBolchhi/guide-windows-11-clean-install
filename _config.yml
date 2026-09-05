@@ -1,8 +1,9 @@
 title: Windows 11 Clean Install Guide
 description: A step-by-step guide to help you get a clean, nearly zero-bloat experience, on a fresh install of Windows 11.
 theme: just-the-docs
+permalink: pretty
 
-url: https://just-the-docs.github.io
+url: https://naeembolchhi.github.io/guide-windows-11-clean-install/
 
 # aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
