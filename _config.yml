@@ -7,3 +7,10 @@ url: https://naeembolchhi.github.io/guide-windows-11-clean-install/
 
 # aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  link:
+    color: blue
+  warning:
+    title: Warning
+    color: red

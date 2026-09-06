@@ -4,4 +4,7 @@ layout: home
 nav_order: 1
 permalink: /
 ---
-start
+
+# Windows 11 Clean Install Guide
+
+something?
