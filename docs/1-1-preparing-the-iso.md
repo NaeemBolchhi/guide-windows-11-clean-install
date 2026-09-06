@@ -1,8 +1,8 @@
 ---
-title: Preparing ISO
+title: Preparing the ISO
 layout: default
 nav_order: 2
-permalink: /preparing-iso/
+permalink: /preparing-the-iso/
 ---
 
 # Downloading and Preparing Windows ISO
@@ -39,4 +39,26 @@ Scroll download and download the file marked in the screenshot below.
 
 Hope you have a flash drive ready. Rufus works with USB Flash Drives. It's a good idea to get a fast one, as a faster USB Drive will let you install Windows faster as well. But if you're in a pinch, any USB Drive that can hold the contents of the ISO will do.
 
-...to be continued...
+For starters, run Rufus that you downloaded just now. Ensure that the correct USB Drive is selected (1), then select the ISO you downloaded a while ago (2).
+
+![Rufus Start](../images/1-1-rufus-start.png)
+
+Once that's done, just click **Okay**. Next, you'll get this warning screen. Click **Okay** again. We're adults. We don't need daddy Microsoft to hold our hand as we cross the road.
+
+![Rufus Warning](../images/1-1-rufus-warning.png)
+
+Now, ensure that you check the same things that I have in the image below. Notice that I have not checked the last one. It'd normally be a good thing, but this particular ISO doesn't have those annoyances to begin with, so it doesn't matter to keep it unchecked. Up to you. Oh, and, set your own username. Don't copy mine, okay?
+
+![Rufus Checklist](../images/1-1-rufus-checklist.png)
+
+You'll then get another warning that everything in your USB Drive will be wiped by this process. I want to say that's obvious, but maybe it's your first time? Make sure to move away any important files from your USB Drive if it's not empty.
+
+![Rufus Wipe](../images/1-1-rufus-wipe.png)
+
+Now. Let's wait for the process to finish. It can take a while.
+
+Once it's done, you'll see a green background appear on the progress bar with the text "Ready". At this point, we can safely close Rufus as our USB Drive is ready for action.
+
+![Rufus Close](../images/1-1-rufus-close.png)
+
+That's the end for this part.
