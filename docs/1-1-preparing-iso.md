@@ -16,7 +16,7 @@ For a clean Windows 11 installation, we need to get our hands on the IoT Enterpr
 {: .link }
 > Open this link in your browser:
 > 
-> [https://massgrave.dev/windows_ltsc_links.html]
+> [https://massgrave.dev/windows_ltsc_links.html](https://massgrave.dev/windows_ltsc_links.html)
 
 Scroll a little and come to the place marked in the screenshot below.
 
@@ -33,7 +33,7 @@ Rufus is probably the most light-weight utility available for making a bootable 
 {: .link }
 > Open this link in your browser:
 > 
-> [https://rufus.ie/en/#download]
+> [https://rufus.ie/en/#download](https://rufus.ie/en/#download)
 
 Scroll download and download the file marked in the screenshot below.
 
