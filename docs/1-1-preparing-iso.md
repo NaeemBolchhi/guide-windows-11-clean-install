@@ -14,8 +14,6 @@ In this part of the guide, we will download a bloat-free version of Windows 11, 
 For a clean Windows 11 installation, we need to get our hands on the IoT Enterprise LTSC build of Windows 11. This can be a little difficult to find directly, but the great folks at Massgrave have already presented a bunch of download links for us.
 
 {: .link }
-> Open this link in your browser:
-> 
 > [https://massgrave.dev/windows_ltsc_links.html](https://massgrave.dev/windows_ltsc_links.html)
 
 Scroll a little and come to the place marked in the screenshot below.
@@ -31,8 +29,6 @@ Downloading can go a bit faster if you use a download manager like IDM or ABDM.
 Rufus is probably the most light-weight utility available for making a bootable USB drive. There are other popular tools like Balena Etcher, but we will opt for Rufus as it has some simple yet neat modifications available for Windows 11. This is also why we will not be using Ventoy or other similar alternatives.
 
 {: .link }
-> Open this link in your browser:
-> 
 > [https://rufus.ie/en/#download](https://rufus.ie/en/#download)
 
 Scroll download and download the file marked in the screenshot below.
