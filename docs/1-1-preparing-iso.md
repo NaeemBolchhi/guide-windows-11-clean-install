@@ -2,7 +2,7 @@
 title: Preparing ISO
 layout: default
 nav_order: 2
-permalink: /downloading-preparing-iso/
+permalink: /preparing-iso/
 ---
 
 # Downloading and Preparing Windows ISO
@@ -15,11 +15,12 @@ For a clean Windows 11 installation, we need to get our hands on the IoT Enterpr
 
 {: .link }
 > Open this link in your browser:
+> 
 > https://massgrave.dev/windows_ltsc_links.html
 
 Scroll a little and come to the place marked in the screenshot below.
 
-![Downloading ISO from Massgrave](/images/1-1-massgrave-iso-download.png)
+![Downloading ISO from Massgrave](../images/1-1-massgrave-iso-download.png)
 
 Now download the ISO using the second link as highlighted in the screenshot above.
 
@@ -31,11 +32,12 @@ Rufus is probably the most light-weight utility available for making a bootable 
 
 {: .link }
 > Open this link in your browser:
+> 
 > https://rufus.ie/en/#download
 
 Scroll download and download the file marked in the screenshot below.
 
-![Downloading Rufus](/images/1-1-downloading-rufus.png)
+![Downloading Rufus](../images/1-1-downloading-rufus.png)
 
 ## Making the Bootable USB Drive
 
