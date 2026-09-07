@@ -1,8 +1,9 @@
 ---
 title: Preparing the ISO
 layout: default
-nav_order: 2
-permalink: /preparing-the-iso/
+nav_order: 1
+parent: Installing Windows
+permalink: /installing-windows/preparing-the-iso/
 ---
 
 # Downloading and Preparing Windows ISO
