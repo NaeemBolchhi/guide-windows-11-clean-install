@@ -18,7 +18,7 @@ In the BIOS, you can set your USB Drive as the first item in boot priority. On m
 
 If you succeed, you may see a screen like the one below.
 
-![](../images/1-2-press-any-key.png)
+![](../../images/1-2-press-any-key.png)
 
 If you see this screen, you should press something on your Keyboard. Spacebar or Enter will do.
 
