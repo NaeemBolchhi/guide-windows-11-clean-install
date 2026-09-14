@@ -1,18 +1,18 @@
 ---
-title: Preparing the ISO
+title: Prepare with Rufus
 layout: default
 nav_order: 1
-parent: Installing Windows
-permalink: /installing-windows/preparing-the-iso/
+parent: Preparing the ISO
+permalink: /preparing-the-iso/with-rufus/
 ---
 
-# Downloading and Preparing Windows ISO
+# Prepare with Rufus
 
 In this part of the guide, we will download a bloat-free version of Windows 11, and then use Rufus to make a bootable USB drive.
 
 ## Get the ISO from Massgrave
 
-For a clean Windows 11 installation, we need to get our hands on the IoT Enterprise LTSC build of Windows 11. This can be a little difficult to find directly, but the great folks at Massgrave have already presented a bunch of download links for us.
+Getting our hands on the IoT Enterprise LTSC build of Windows 11 can be a little difficult to find directly, but the great folks at Massgrave have already presented a bunch of download links for us.
 
 {: .link }
 > [https://massgrave.dev/windows_ltsc_links.html](https://massgrave.dev/windows_ltsc_links.html)
@@ -27,7 +27,7 @@ Downloading can go a bit faster if you use a download manager like IDM or ABDM.
 
 ## Download Rufus
 
-Rufus is probably the most light-weight utility available for making a bootable USB drive. There are other popular tools like Balena Etcher, but we will opt for Rufus as it has some simple yet neat modifications available for Windows 11. This is also why we will not be using Ventoy or other similar alternatives.
+Rufus is probably the most light-weight utility available for making a bootable USB drive. There are other options like Balena Etcher and Ventoy that can do a great job as well, Rufus is certainly the cleanest choice.
 
 {: .link }
 > [https://rufus.ie/en/#download](https://rufus.ie/en/#download)
@@ -58,8 +58,8 @@ You'll then get another warning that everything in your USB Drive will be wiped 
 
 Now. Let's wait for the process to finish. It can take a while.
 
-Once it's done, you'll see a green background appear on the progress bar with the text "Ready". At this point, we can safely close Rufus as our USB Drive is ready for action.
+Once it's done, you'll see a green background appear on the progress bar with the text "Ready".
 
 ![Rufus Close](../../images/1-1-rufus-close.png)
 
-That's the end for this part.
+At this point, we can safely close Rufus as our USB Drive is ready for action.
