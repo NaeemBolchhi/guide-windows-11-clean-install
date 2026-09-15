@@ -12,7 +12,7 @@ You have probably downloaded the Windows 11 IoT Enterprise 2024 x64 version I ta
 
 ## Download Rufus
 
-Rufus is probably the most light-weight utility available for making a bootable USB drive. There are other options like Balena Etcher and Ventoy that can do a great job as well, Rufus is certainly the cleanest choice.
+Rufus is probably the most light-weight utility available for making a bootable USB drive. There are other options that can do a great job as well, but Rufus is certainly the cleanest choice.
 
 {: .link }
 > [https://rufus.ie/en/#download](https://rufus.ie/en/#download)

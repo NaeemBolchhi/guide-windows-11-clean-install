@@ -30,4 +30,4 @@ Downloading can go a bit faster if you use a download manager like IDM or ABDM.
 
 ## Pick a Flashing/Booting Tool
 
-You have several options for preparing the ISO. Pick **ONLY ONE** of the following paths to follow. They are alternative ways of getting the same result.
+While there are probably many different ways of doing this, we will be focusing on Rufus and Ventoy. You don't need both of them, so just pick the one that fits your needs.
