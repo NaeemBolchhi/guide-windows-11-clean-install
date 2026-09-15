@@ -12,6 +12,9 @@ callouts:
   link:
     title: Open Link
     color: blue
+  download:
+    title: Download File
+    color: orange
   warning:
     title: Warning
     color: red
