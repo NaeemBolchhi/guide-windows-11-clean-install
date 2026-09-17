@@ -1,7 +1,7 @@
 ---
 title: Prepare with Ventoy
 layout: default
-nav_order: 3
+nav_order: 2
 parent: Preparing the ISO
 permalink: /preparing-the-iso/with-ventoy/
 ---
