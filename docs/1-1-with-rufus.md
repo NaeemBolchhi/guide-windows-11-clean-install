@@ -14,7 +14,9 @@ You have probably downloaded the Windows 11 IoT Enterprise 2024 x64 version I ta
 
 Rufus is probably the most light-weight utility available for making a bootable USB drive. There are other options that can do a great job as well, but Rufus is certainly the cleanest choice.
 
-{: .link }
+{: .link-title }
+> Open Link
+> 
 > [https://rufus.ie/en/#download](https://rufus.ie/en/#download)
 
 Scroll download and download the file marked in the screenshot below.
