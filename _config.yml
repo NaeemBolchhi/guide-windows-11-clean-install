@@ -14,7 +14,7 @@ callouts:
     color: blue
   download:
     title: Download File
-    color: blue
+    color: orange
   warning:
     title: Warning
     color: red
