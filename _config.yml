@@ -10,11 +10,11 @@ url: https://naeembolchhi.github.io/guide-windows-11-clean-install/
 
 callouts:
   link:
-    title: Open Link
+    title: 🔗 Open Link
     color: blue
   download:
-    title: Download File
-    color: orange
+    title: 📁 Download File
+    color: blue
   warning:
-    title: Warning
+    title: ⚠️ Warning
     color: red
