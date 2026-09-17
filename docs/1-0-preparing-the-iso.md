@@ -17,7 +17,9 @@ In choosing Windows 11 IoT Enterprise 2024 x64, we are taking some of that contr
 
 Getting our hands on the IoT Enterprise LTSC build of Windows 11 can be a little difficult to find directly, but the great folks at Massgrave have already presented a bunch of download links for us.
 
-{: .link }
+{: .link-title }
+> Open Link
+> 
 > [https://massgrave.dev/windows_ltsc_links.html](https://massgrave.dev/windows_ltsc_links.html)
 
 Scroll a little and come to the place marked in the screenshot below.
