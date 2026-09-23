@@ -19,7 +19,7 @@ Rufus is probably the most light-weight utility available for making a bootable 
 > 
 > [https://rufus.ie/en/#download](https://rufus.ie/en/#download)
 
-Scroll download and download the file marked in the screenshot below.
+Scroll down and download the file marked in the screenshot below.
 
 ![Downloading Rufus](../../images/1-1-downloading-rufus.png)
 
