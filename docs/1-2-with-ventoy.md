@@ -100,7 +100,7 @@ Now that our changes are ready, we can put this file inside the ISO.
 
 ISOs are special, and if you modify these with regular archiving tools, you might ruin their bootability. That's why we're using AnyBurn.
 
-Start AnyBurn that you previously installed and click "Edit image file".
+Start AnyBurn that you previously installed and click **"Edit image file"**.
 
 ![AnyBurn Home](../../images/1-2-anyburn-home.png)
 
