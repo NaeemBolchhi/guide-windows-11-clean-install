@@ -26,7 +26,7 @@ In some cases, this screen may not appear, and the process may direct move to th
 
 In case you're using Ventoy instead of Rufus, you will first see Ventoy's ISO selection screen. I couldn't get a screenshot of it myself, but it sort of looks like the one below.
 
-![Ventoy Boot Selection Example](../../2-2-ventoy-boot-example.png)
+![Ventoy Boot Selection Example](../../images/2-2-ventoy-boot-example.png)
 
 It basically lists all the ISOs you have available on your flash drive. Just select the one you want to install and hit Enter. Then installation should continue like normal.
 

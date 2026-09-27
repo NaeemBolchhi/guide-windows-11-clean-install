@@ -82,17 +82,17 @@ The script does several things for us, including the automatic creation of a loc
 
 Open the folder that you extracted, and the every other folder inside, until you find an **xml** file.
 
-![Open Folder for Unattend Script](../../1-2-script-open-folder.png)
+![Open Folder for Unattend Script](../../images/1-2-script-open-folder.png)
 
 Now edit this file with Notepad, Notepad++, or NotepadNext. Any editing tool that can do Find-and-Replace will do.
 
-![Edit Unattend Script with Notepad](../../1-2-script-edit-notepad.png)
+![Edit Unattend Script with Notepad](../../images/1-2-script-edit-notepad.png)
 
 Type **NaeemBolchhi** in the first box (1), and your custom username in the second box (2). It's probably better not to have spaces in your username as that makes a lot of filepaths simpler to write.
 
 If there's a **Replace All** button (3), click that. If your editor doesn't have that, click **Replace** multiple times.
 
-![Replace Username in Unattend Script](../../1-2-script-replace-username.png)
+![Replace Username in Unattend Script](../../images/1-2-script-replace-username.png)
 
 Confirm that your username has appeared in multiple places within the file. Then save and exit.
 
@@ -102,27 +102,27 @@ ISOs are special, and if you modify these with regular archiving tools, you migh
 
 Start AnyBurn that you previously installed and click "Edit image file".
 
-![AnyBurn Home](../../1-2-anyburn-home.png)
+![AnyBurn Home](../../images/1-2-anyburn-home.png)
 
 Now select the unmodified ISO you previously downloaded from Massgrave (1). Once the ISO is recognized, just click **Next** (2).
 
-![AnyBurn Select ISO](../../1-2-anyburn-select-iso.png)
+![AnyBurn Select ISO](../../images/1-2-anyburn-select-iso.png)
 
 Now drag and drop the **"sources"** folder you extracted a while ago into the ISO.
 
-![AnyBurn Drag and Drop Folder](../../1-2-anyburn-add-folder.png)
+![AnyBurn Drag and Drop Folder](../../images/1-2-anyburn-add-folder.png)
 
 If you did it right, you should get a pop-up that asks you to confirm if you want to replace the existing folder. Select **Yes to all** (1). Once that's done, click **Next** (2) for the next step.
 
-![AnyBurn Confirm Replace](../../1-2-anyburn-confirm-replace.png)
+![AnyBurn Confirm Replace](../../images/1-2-anyburn-confirm-replace.png)
 
 You have to give the ISO a new name (1). It's perfectly fine to give it a completely new name instead of slightly changing it as I did. Then click **"Create Now"** (2).
 
-![AnyBurn Rename and Save](../../1-2-anyburn-rename-save.png)
+![AnyBurn Rename and Save](../../images/1-2-anyburn-rename-save.png)
 
 Let's wait for the process to finish.
 
-![AnyBurn Creating New ISO](../../1-2-anyburn-creating-new-iso.png)
+![AnyBurn Creating New ISO](../../images/1-2-anyburn-creating-new-iso.png)
 
 Once you have your ISO, we are done with AnyBurn. You can close that.
 
@@ -130,7 +130,7 @@ Once you have your ISO, we are done with AnyBurn. You can close that.
 
 Simply copy over the modified ISO to your USB Flash Drive.
 
-![Move the ISO to Flash Drive](../../1-2-move-iso.png)
+![Move the ISO to Flash Drive](../../images/1-2-move-iso.png)
 
 Once that's done, we are ready to install Windows.
 
