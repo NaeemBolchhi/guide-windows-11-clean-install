@@ -21,11 +21,11 @@ Unlike tools like Rufus where you have to process and prepare your USB Flash Dri
 
 Once the link opens, click on one of the available download links. They all lead you to sourceforge, so it doesn't really matter. But you can click the one for Windows if you're feeling sane.
 
-![Downloading Ventoy (1)](../../images/1-2-downloading-ventoy-1.png)
+![Downloading Ventoy (1)](../../images/1-2-download-ventoy-1.png)
 
 Why didn't I just give you the sourceforge link directly? Well, I don't want to have to update this guide every time they release a new version. So I'm showing you the regular process, not the spoonfed process. But now that you're here, download the **zip** that's marked for Windows.
 
-![Downloading Ventoy (2)](../../images/1-2-downloading-ventoy-2.png)
+![Downloading Ventoy (2)](../../images/1-2-download-ventoy-2.png)
 
 Congrats! Now you have Ventoy. We still have to install it though.
 
