@@ -23,3 +23,27 @@ If you succeed, you may see a screen like the one below.
 If you see this screen, you should press something on your Keyboard. Spacebar or Enter will do.
 
 In some cases, this screen may not appear, and the process may direct move to the installation steps. That's normal as well, and is commonly the case when using the boot menu.
+
+In case you're using Ventoy instead of Rufus, you will first see Ventoy's ISO selection screen. I couldn't get a screenshot of it myself, but it sort of looks like the one below.
+
+![Ventoy Boot Selection Example](../../2-2-ventoy-boot-example.png)
+
+It basically lists all the ISOs you have available on your flash drive. Just select the one you want to install and hit Enter. Then installation should continue like normal.
+
+<post-nav class="post-navigation" aria-label="Post navigation">
+  <a href="/posts/previous-post/" class="post-nav post-nav-prev">
+    <span class="post-nav-arrow">←</span>
+    <span>
+      <small>Previous</small>
+      Previous Post Title
+    </span>
+  </a>
+
+  <a href="/posts/next-post/" class="post-nav post-nav-next">
+    <span>
+      <small>Next</small>
+      Next Post Title
+    </span>
+    <span class="post-nav-arrow">→</span>
+  </a>
+</post-nav>

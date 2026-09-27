@@ -15,6 +15,9 @@ callouts:
   download:
     title: Download File
     color: blue
+  cmd:
+    title: Run in CMD
+    color: yellow
   warning:
     title: Warning
     color: red
