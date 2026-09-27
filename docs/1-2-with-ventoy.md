@@ -80,7 +80,7 @@ Once you download the backup, go ahead and extract the files inside with all fol
 
 The script does several things for us, including the automatic creation of a local user with the username of **NaeemBolchhi**. Since you're not creepy at all and you want to use your own username instead of masquerading as me, let's change the username.
 
-Open the folder that you extracted, and the every other folder inside, until you find an **xml** file.
+Open the folder that you extracted, and then every other folder inside, until you find an **xml** file.
 
 ![Open Folder for Unattend Script](../../images/1-2-script-open-folder.png)
 
