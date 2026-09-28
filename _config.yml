@@ -17,7 +17,7 @@ callouts:
     color: blue
   cmd:
     title: Run in CMD
-    color: yellow
+    color: green
   warning:
     title: Warning
     color: red

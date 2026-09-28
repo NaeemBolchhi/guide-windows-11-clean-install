@@ -74,7 +74,7 @@ I've made a backup of the changes that Rufus makes to the ISO. If you want to lo
 {: .download-title }
 > Download File
 > 
-> [https://naeembolchhi.github.io/guide-windows-11-clean-install/resources/unattend-script.zip](https://naeembolchhi.github.io/guide-windows-11-clean-install/resources/unattend-script.zip)
+> [unattend-script.zip](../../resources/unattend-script.zip)
 
 Once you download the backup, go ahead and extract the files inside with all folders intact.
 
