@@ -31,18 +31,18 @@ In case you're using Ventoy instead of Rufus, you will first see Ventoy's ISO se
 It basically lists all the ISOs you have available on your flash drive. Just select the one you want to install and hit Enter. Then installation should continue like normal.
 
 <post-nav class="post-navigation" aria-label="Post navigation">
-  <a href="/posts/previous-post/" class="post-nav post-nav-prev">
+  <!--<a href="/posts/previous-post/" class="post-nav post-nav-prev">
     <span class="post-nav-arrow">←</span>
     <span>
       <small>Previous</small>
       Previous Post Title
     </span>
-  </a>
+  </a>-->
 
-  <a href="/posts/next-post/" class="post-nav post-nav-next">
+  <a href="../windows-setup/" class="post-nav post-nav-next">
     <span>
       <small>Next</small>
-      Next Post Title
+      Windows Setup
     </span>
     <span class="post-nav-arrow">→</span>
   </a>
